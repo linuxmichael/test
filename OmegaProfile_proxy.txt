@@ -3,7 +3,7 @@ var domains = {
     "youtube.com": 1
 };
  
-var proxy = "SOCKS5 127.0.0.1:10808; SOCKS 127.0.0.1:1080; PROXY 127.0.0.1:65505; DIRECT;";
+var proxy = "SOCKS5 127.0.0.1:10808; SOCKS 127.0.0.1:10808; PROXY 127.0.0.1:65505; DIRECT;";
  
 var direct = 'DIRECT;';
  
